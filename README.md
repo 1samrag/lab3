@@ -9,7 +9,7 @@ screenshot ![](img/covidratemap.png)
 
 The primary function for each map is to turn raw data into tangible information on the prevelant problem the world is facing, Covid-19.
 
-libraries in use
-data sources- New York times and census
+libraries in use mapbox
+data sources- New York times and census data
 credit- Samra Gebrehiwot
 acknowledgment- Steven Bao who worked with me through this lab.
