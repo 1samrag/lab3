@@ -101,7 +101,8 @@
             container: 'map', // container ID
             style: 'mapbox://styles/mapbox/light-v10', // style URL
             zoom: 3, // starting zoom
-            center: [-100, 40] // starting center
+            center: [-100, 40], // starting center
+            projection: "albers"
         });
 
         // load data and add as layer
@@ -134,10 +135,6 @@
                             '#FC4E2A',   // stop_output_4
                             291,         // stop_input_4
                             '#E31A1C',   // stop_output_5
-                            500,         // stop_input_5
-                            '#BD0026',   // stop_output_6
-                            1000,        // stop_input_6
-                            "#800026"    // stop_output_7
                         ],
                         'fill-outline-color': '#BBBBBB',
                         'fill-opacity': 0.7,
@@ -150,9 +147,6 @@
                     '66-89',
                     '89-128',
                     '128-291',
-                    '200-499',
-                    '500-999',
-                    '1000 and more'
                 ];
                 const colors = [
                     '#FFEDA070',
