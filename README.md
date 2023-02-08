@@ -6,6 +6,7 @@ In This project we created a chloropleth map of Covid rates in the year 2020. We
   [map2](map2.html)
 
 screenshot ![](img/covidratemap.png)
+screenshot ![](img/covidcountsmap.png)
 
 The primary function for each map is to turn raw data into tangible information on the prevelant problem the world is facing, Covid-19.
 
