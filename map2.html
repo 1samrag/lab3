@@ -71,7 +71,7 @@
     <div id="map"></div>
     <div id="legend"></div>
     <div id="title">
-        Covid Cases In The US
+        Nuclear gas plants in the US
     </div>
     <div id="subtitle">
         September 2020
@@ -146,7 +146,7 @@ map.addLayer({
 map.on('click', 'name', (event) => {
     new mapboxgl.Popup()
         .setLngLat(event.features[0].geometry.coordinates)
-        .setHTML(`<strong>Cases:</strong> ${event.features[0].properties.cases}`)
+        .setHTML(`<strong>output production:</strong> ${event.features[0].properties.cases}`)
         .addTo(map);
 });
 

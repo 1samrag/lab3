@@ -87,9 +87,9 @@
 <body>
     <div id="map"></div>
     <div class='map-overlay' id='features'>
-        <h2>US Covid Rates 2020</h2>
+        <h2>Native Landmarks</h2>
         <div id='text-description'>
-            <p>Hover over a state!</p>
+            <p>Hover over the icon to find the distance from the nearest nuclear gas plant!</p>
         </div>
     </div>
     <div class='map-overlay' id='legend'></div>
@@ -161,7 +161,7 @@
 
                 // create legend
                 const legend = document.getElementById('legend');
-                legend.innerHTML = "<b>Covid Rates 2020<br>(% of people with Covid)</b><br><br>";
+                legend.innerHTML = "<b>distance from gas plants)</b><br><br>";
 
 
                 layers.forEach((layer, i) => {
