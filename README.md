@@ -1,16 +1,32 @@
-write up a project description in the readme.md file. This file will introduce the project name, a brief introduction, links to the map, screenshots, the primary functions(especially the function which was not covered in the lectures), libraries in use, data sources, credit, acknowledgment, and other necessary information. (6 points)
+Natural Gas plants Across the U.S. near Native Reservations
 
-In This project we created a chloropleth map of Covid rates in the year 2020. We made a second map depicting the porportional values of Covid counts in 2020. 
+link : 1samrag.github.io/lab3
+<a href="https://github.com/1samrag/lab3">1samrag.github.io/lab3</a>
 
-  [map1](map1.html)
-  [map2](map2.html)
+Contributors: Samra Gebrehiwot 
 
-screenshot ![](img/covidratemap.png)
-screenshot ![](img/covidcountsmap.png)
+Project description: This webmap displays different Indian reservations throughout the United States, we can identify the native sites closest to natural gas plants. The United States census bureau offers hapefiles for each of the native reservation across the US, using such data we can identify where each location is and refrence the dot density map depicting gas plants across the U.S. 
 
-The primary function for each map is to turn raw data into tangible information on the prevelant problem the world is facing, Covid-19.
+One or two screenshots to illustrate the project's functions
+<img src = "img/NativeLandmarks.png" alt "NativeSites">
+<img src = "img/GasPlantPoints copy.png" alt "GasPlantSites">
 
-libraries in use mapbox
-data sources- New York times and census data
-credit- Samra Gebrehiwot
-acknowledgment- Steven Bao who worked with me through this lab.
+Project goal :
+This webmap is designed to reach environmental activists and native residents who are concerned for the well being of sacred land. A map with symbols at each reservation location with symbols for gas plants will make native territory and its proximity to gas plants identifiable.
+
+
+Data sources:
+Primary data source for crime statistics comes from the city of Seattle at https://www.census.gov/tribal/
+
+Shapefiles for each Native Reservation from:
+https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html 
+https://www.geoplatform.gov/metadata/3e2ba754-daae-5ef7-9a05-9ed8387fb085
+
+Shapefiles for Gas Plants across the United States:
+https://www.eia.gov/maps/layer_info-m.php 
+
+
+Applied libraries (Mapbox) and Web Services in use (github, basemap).
+
+Acknowledgment:
+Steven Bao
