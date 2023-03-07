@@ -10,7 +10,7 @@ Project description: This webmap displays different Indian reservations througho
 
 One or two screenshots to illustrate the project's functions
 NativeSites ![](img/NativeLandmarks.png)
-GasPlantSites ![](img/GasPlantPoints copy.png)
+GasPlantSites ![](img/GasPlantPoints.png)
 
 
 Project goal :
