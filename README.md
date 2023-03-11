@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title><b>Natural Gas plants Across the U.S. near Native Reservations</b></title>
   </head>
   <body>
-    <h1> Native American Reservations and Trust Lands within close proximity of Gas Processing Plants within the U.S.</h1>
+    <h1> Native American Reservation Lands within close proximity of Gas Processing Plants within the U.S.</h1>
     <p>link : 1samrag.github.io/lab3
 <a href="https://github.com/1samrag/lab3">1samrag.github.io/lab3</a>
 
