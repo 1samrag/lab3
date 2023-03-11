@@ -1,12 +1,15 @@
- <title> <b>Natural Gas plants Across the U.S. near Native Reservations<b>
- Native American Reservations and Trust Lands within close proximity of Gas Processing Plants within the U.S.
-
-
-link : 1samrag.github.io/lab3
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><b>Natural Gas plants Across the U.S. near Native Reservations</b></title>
+  </head>
+  <body>
+    <h1> Native American Reservations and Trust Lands within close proximity of Gas Processing Plants within the U.S.</h1>
+    <p>link : 1samrag.github.io/lab3
 <a href="https://github.com/1samrag/lab3">1samrag.github.io/lab3</a>
 
 
-Contributors: Samra Gebrehiwot 
+Contributors: Samra Gebrehiwot </p>
 
 Project description: This webmap displays different Indian reservations throughout the United States, we can identify the native sites closest to natural gas plants. The United States census bureau offers hapefiles for each of the native reservation across the US, using such data we can identify where each location is and refrence the dot density map depicting gas plants across the U.S. 
 
@@ -57,3 +60,11 @@ Applied libraries (Mapbox) and Web Services in use (github, basemap).
 
 Acknowledgment:
 Steven Bao
+  </body>
+</html> 
+ 
+ 
+
+
+
+
