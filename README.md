@@ -1,4 +1,4 @@
- <title><b>Natural Gas plants Across the U.S. near Native Reservations
+ <title> <b>Natural Gas plants Across the U.S. near Native Reservations<b>
  Native American Reservations and Trust Lands within close proximity of Gas Processing Plants within the U.S.
 
 
@@ -15,7 +15,7 @@ There are 566 federally recognized Indian tribes in the U.S, and there are 325 N
 Research question:  Which Native reservations are susceptible to the dangers being in close proximity of gas plants? According to the map I created below, there is a lot of overlap down the Central most path on the US map in. Specifically along the Mississippi river on the bordering states between Montana and North Dakota. We also observe two more large clusters of overlap in the midwest around Colorado.  And Lastly, near the Southern most part of Texas and Oklahoma state.
 
 Data generated from QGIS
-![](img/img/Screen Shot 2023-03-10 at 7.48.46 PM.png)
+![](img/chart.png)
 
 With over half of Oklahoma being considered Native territory it is important to look at gas production industries in Oklahoma. Oklahoma is the US's top oil producing state ranking 4th in the nation. One fourth of Oklahoma's oil and gas wells are at 60%  if its refinery capacity and its operations are located in native territory. Its gas wells lie within five native tribes including the Cherokee, Chickasaw, Choctaw, Creek and Seminole. The fracking pioneer Chesapeake Energy(One of Oklahoma's biggest energy firms), has  declared bankruptcy  due to Oklahoma's high extraction costs. Due to a great deal of Oklahoma being Native land, this generates greater regulation over the sacred land serving to protect its properties and wildlife. In addition to federal restrictions, in order to protect  endangered wildlife like, the beetle , drilling in Indian country is closely monitored. This can sometimes cause delays in gas production for other miners. A legislative proposal was agreed upon allowing native american groups the freedom to collect taxes and grant them authority over their lands and any activity they deem hazardous to the endangerment of the natural welfare of the tribes on the land which may include environmental regulation. This opens the door to double taxation from the federal government and additionally native lands in which gas production is being done on. 
 
@@ -26,11 +26,11 @@ NativeSites ![](img/NativeLandmarks.png)
 GasPlantSites ![](img/GasPlantPoints.png)
 
 Statistics charts:
-![](img/Screen Shot 2023-03-10 at 7.49.01 PM.png)
+![](img/table1.png)
 
 Ilinois and West Virginia are the two areas with the highest output of production of natural gas. The indigenous land nearest these two plants resides in Michigan and is comprised of  three main Anishinaabe nations: Ojibwe (Chippewa), Odawa (Ottawa), and Bodewadomi (Potawatomi), and these three tribes form what is called "The Council of The Three Fires"
 
-![](img/Screen Shot 2023-03-10 at 7.49.07 PM.png)
+![](img/table2.png)
 
 Almost all point on the graph for Plant Flow Stream cluster around the black line indicating that most Natural Gas production Plants are producing at full capacity
 
